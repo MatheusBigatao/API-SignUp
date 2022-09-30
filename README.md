@@ -1,0 +1,4 @@
+## Tecnologias
+- JavaScript
+- TypeScript
+- Jest
