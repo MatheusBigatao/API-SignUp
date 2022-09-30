@@ -1,4 +1,4 @@
-## Tecnologias
+## Technologies
 - JavaScript
 - TypeScript
 - Jest
